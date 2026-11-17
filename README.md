@@ -1,6 +1,8 @@
 # Amalgam-Navbot
 Original github.com/rei-2/Amalgam
+
 Features
+
 NavBot and Nav Engine
 The NavBot module is more than basic roaming. It reads TF2 .nav meshes, finds paths, follows waypoint “crumbs,” checks visibility/traversability, and tracks stuck or failed routes. It also has path-worker support, nav-area/path visualization, hazard costs, and blacklist/repath handling.
 
